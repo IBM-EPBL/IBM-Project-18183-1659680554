@@ -1,0 +1,21 @@
+<a href="/">HOME</a>
+<a href="/uploader">Upload</a>
+<a href="/deletefile">Delete</a>
+<br>
+<hr>
+<h1>IBM Object Storage</h1>
+
+
+<!doctype html>
+<html>
+
+<body>
+    {% for row in files %}
+    <div style="border: 1px solid #00eaff;margin:10px;">
+        <h3>Filename : {{row}} </h3>
+        <img src="https://sharique-ibm.s3.jp-tok.cloud-object-storage.appdomain.cloud/img%20(1).jpg" width="150px"></td>
+    </div>
+    {% endfor %}
+</body>
+
+</html>
