@@ -16,4 +16,4 @@ In this project, we are creating a cloud application, based on python,flask,ibm 
 - SHARIQUE AHMED A
 - VIMAL KUMAR U
 
-## 🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-18183-1659680554/blob/main/Ideation%20phase/Empathy%20Map.pdf)
+## 🎥 Demo Link - [Click Here](https://drive.google.com/file/d/1Lf_XNnvI0qssoucnNFMggbUNDpPG-v62/view?usp=sharing)
